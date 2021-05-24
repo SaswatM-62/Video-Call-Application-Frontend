@@ -63,7 +63,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://vc-frontend-sm.netlify.app/)
 
 This project consists of the frontend of Video Call Application. The backend repository can be found here: [Backend](https://github.com/SaswatM-62/Video-Call-Application-Backend).  
-The backend is built using React.js and MaterialUI is used for the design. Socket-io.client library is used to allow the client to communicate to the server. The live video and audio of the clients are shared using simple-peer library.
+The frontend is built using React.js and MaterialUI is used for the design. Socket-io.client library is used to allow the client to communicate to the server. The live video and audio of the clients are shared using simple-peer library.
 To make a call from one client to another, a user id must shared using which the call can be made.
 The backend server must be running before the running the client-side code for the application to work.
       
@@ -94,11 +94,11 @@ You need to have Node.js installed to run this application
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SaswatM-62/Video-Call-Application-Backend.git
+   git clone https://github.com/SaswatM-62/Video-Call-Application-Frontend.git
    ```
 2. Open the project folder in the terminal
    ```sh
-   cd Video-Call-Application-Backend
+   cd Video-Call-Application-Frontend
    ```
 3. Install NPM packages
    ```sh
